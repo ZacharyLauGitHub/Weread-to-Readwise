@@ -8,7 +8,7 @@ import sys
 import datetime
 
 doc = """
-    This is a simple script created by wogong, 
+    This is a simple script created by Zachary Lau, 
     that converts Weread notes export to a csv compatible with Readwise.
 
     Steps:
